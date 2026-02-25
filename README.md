@@ -1,2 +1,2 @@
-# EV-Car-sales-data-analysis
-Exploratory Data Analysis using Python to discover sales trends and business insights.
+# EV Car sales data analysis
+Python-based data analysis project exploring EV performance, energy efficiency, recommendation system, and statistical hypothesis testing.
