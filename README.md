@@ -45,7 +45,7 @@ https://www.loom.com/share/60d62eef06b34c508065a2d4fa515f46
 FEV-data-Excel.xlsx - Dataset
 
 # AUTHOR
-Gazi Aman Khan
+Gazi Aman Khan - 
 Data Science | AI/ML Enthusiast
 
 
