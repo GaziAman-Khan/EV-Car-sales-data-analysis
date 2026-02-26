@@ -5,20 +5,20 @@ Python-based data analysis project exploring EV performance, energy efficiency, 
 This project analyzes Electric Vehicle (EV) data using Python to uncover insights related to performance, efficiency, pricing, and manufacturer comparison. The project combines data analysis, visualization, statistical testing, and a recommendation system.
 
 # Objectives
--Analyze EV dataset using Python
--Filter vehicles based on customer requirements
--Detect outliers in energy consumption
--Study relationship between battery capacity and range
--Build an EV recommendation system
--Perform hypothesis testing between Tesla and Audi
+- Analyze EV dataset using Python
+- Filter vehicles based on customer requirements
+- Detect outliers in energy consumption
+- Study relationship between battery capacity and range
+- Build an EV recommendation system
+- Perform hypothesis testing between Tesla and Audi
 
 # Technologies Used
--Python
--Pandas
--NumPy
--Matplotlib
--SciPy
--Jupyter Notebook
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- SciPy
+- Jupyter Notebook
 
 # KEY ANALYSIS PERFORMED
 
@@ -34,9 +34,9 @@ Built a Python class recommending top EVs based on budget, range, and battery ca
 Performed two-sample t-test comparing Tesla and Audi engine power.
 
 # KEY INSIGHTS
--Strong positive correlation between battery capacity and range.
--Energy efficiency varies significantly across EV models.
--Statistical testing shows performance differences between manufacturers depend on variability and sample size.
+- Strong positive correlation between battery capacity and range.
+- Energy efficiency varies significantly across EV models.
+- Statistical testing shows performance differences between manufacturers depend on variability and sample size.
 
 # PROJECT EXPLANATION VIDEO
 https://www.loom.com/share/60d62eef06b34c508065a2d4fa515f46
